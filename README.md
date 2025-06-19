@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 installer VScode
-
+installer xamp
 ```
 
 ### Installation
