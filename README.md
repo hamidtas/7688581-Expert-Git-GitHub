@@ -12,12 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 installer VScode
-<<<<<<< HEAD
 installer xamp
-=======
 installer python
-
->>>>>>> b6fca790df83e28a08cdd83a471338be66314f3e
 ```
 
 ### Installation
